@@ -27,3 +27,5 @@ This configuration corresponds to the following folder structure:
 └── node_modules
 
 ```
+
+to use the LiveReloadPlugin, you need to add ```<script src="http://localhost:35729/livereload.js"></script>``` at the head tag in you index.html
