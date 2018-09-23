@@ -1,4 +1,4 @@
-## Webpack usefull settings
+## Webpack useful settings
 
 i added some interesting settings in order to make the webpack-server work. I set also the css and image loaders. 
 
