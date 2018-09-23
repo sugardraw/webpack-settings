@@ -28,4 +28,6 @@ This configuration corresponds to the following folder structure:
 
 ```
 
-to use the LiveReloadPlugin, you need to add ```<script src="http://localhost:35729/livereload.js"></script>``` at the head tag in you index.html
+to use the LiveReloadPlugin, you need to add ```<script src="http://localhost:35729/livereload.js"></script>``` at the head tag\
+in your ```index.html``` file. 
+More infos [here](https://www.npmjs.com/package/webpack-livereload-plugin)
