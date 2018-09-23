@@ -1,0 +1,29 @@
+## Webpack usefull settings
+
+i added some interesting settings in order to make the webpack-server work. I set also the css and image loaders. 
+
+This configuration corresponds to the following folder structure:
+
+```
+
+├── dist
+│   ├── index.html
+│   ├── js
+│   │   ├── index.html
+│   │   ├── main.js
+│   │   └── main.js.map
+│   ├── main.js
+│   └── styles
+│       ├── style.css
+│       └── style.css.map
+├── package.json
+├── package-lock.json
+├── src
+│   ├── js
+│   │   └── main.js
+│   └── scss
+│       └── styles.scss
+└── webpack.config.js
+└── node_modules
+
+```
